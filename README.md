@@ -1,1 +1,3 @@
-# Arduino-Series
+# Arduino Series
+
+This repository is for teaching purposes.
